@@ -1,15 +1,9 @@
 {
-  "name": "transitionend-property",
-  "repo": "component/transitionend-property",
+  "name": "component-transitionend-property",
   "description": "get the browser specific transition-end property",
   "version": "0.0.2",
-  "component": {
-    "scripts": {
-      "transitionend-property/index.js": "index.js"
-    }
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/component/transitionend-property.git"
-  }
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
 }
